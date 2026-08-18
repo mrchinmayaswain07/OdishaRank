@@ -1,0 +1,172 @@
+﻿
+FullName                                                                                        Length 
+--------                                                                                        ------ 
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.git                                                       
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.next                                                      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.vscode                                                    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\node_modules                                               
+C:\Users\iBirds\Desktop\OdishaRank\frontend\public                                                     
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src                                                        
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.editorconfig                                       198    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.env.local                                          150    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.gitignore                                          583    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.prettierrc                                         152    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\AGENTS.md                                           678    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\CLAUDE.md                                           11     
+C:\Users\iBirds\Desktop\OdishaRank\frontend\components.json                                     520    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\eslint.config.mjs                                   465    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\next-env.d.ts                                       296    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\next.config.ts                                      129    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\package-lock.json                                   376916 
+C:\Users\iBirds\Desktop\OdishaRank\frontend\package.json                                        1300   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\postcss.config.mjs                                  94     
+C:\Users\iBirds\Desktop\OdishaRank\frontend\project-structure.txt                               3937598
+C:\Users\iBirds\Desktop\OdishaRank\frontend\project-structurrre.txt                             0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\README.md                                           1450   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\s84re.txt                                           3822558
+C:\Users\iBirds\Desktop\OdishaRank\frontend\st484re.txt                                         3936832
+C:\Users\iBirds\Desktop\OdishaRank\frontend\tsconfig.json                                       670    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.vscode\extensions.json                             208    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\.vscode\settings.json                               372    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\public\file.svg                                     391    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\public\globe.svg                                    1035   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\public\next.svg                                     1375   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\public\vercel.svg                                   128    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\public\window.svg                                   385    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app                                                    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components                                             
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants                                              
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\context                                                
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features                                               
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\hooks                                                  
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\lib                                                    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\providers                                              
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\services                                               
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\styles                                                 
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\types                                                  
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\utils                                                  
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\proxy.ts                                        3084   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)                                             
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\auth                                               
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\complete-profile                                   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\dashboard                                          
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\favicon.ico                                 25931  
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\globals.css                                 4305   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\layout.tsx                                  673    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\page.tsx                                    3076   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\forgot-password                             
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\login                                       
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\register                                    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\reset-password                              
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\layout.tsx                           226    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\forgot-password\page.tsx             601    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\login\page.tsx                       495    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\register\page.tsx                    388    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\(auth)\reset-password\page.tsx              837    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\auth\callback                                      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\auth\error                                         
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\auth\callback\route.ts                      557    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\auth\error\page.tsx                         791    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\complete-profile\page.tsx                   438    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\app\dashboard\page.tsx                          612    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\charts                                      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\common                                      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\forms                                       
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\layout                                      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui                                          
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\accordion.tsx                     2650   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\alert-dialog.tsx                  5219   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\alert.tsx                         2031   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\avatar.tsx                        3005   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\badge.tsx                         1902   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\breadcrumb.tsx                    2507   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\button.tsx                        3246   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\calendar.tsx                      7917   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\card.tsx                          2579   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\checkbox.tsx                      1355   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\collapsible.tsx                   644    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\command.tsx                       4980   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\dialog.tsx                        3918   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\dropdown-menu.tsx                 8755   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\hover-card.tsx                    1840   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\input-group.tsx                   5215   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\input.tsx                         1045   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\label.tsx                         523    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\menubar.tsx                       8175   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\navigation-menu.tsx               7395   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\pagination.tsx                    2856   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\progress.tsx                      1702   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\radio-group.tsx                   1660   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\resizable.tsx                     1633   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\scroll-area.tsx                   1625   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\select.tsx                        6661   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\separator.tsx                     544    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\sheet.tsx                         4322   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\skeleton.tsx                      278    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\sonner.tsx                        1135   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\switch.tsx                        1713   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\table.tsx                         2296   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\tabs.tsx                          3477   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\textarea.tsx                      846    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\components\ui\tooltip.tsx                       2806   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants\app.ts                                279    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants\breakpoints.ts                        0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants\colors.ts                             0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants\radius.ts                             0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants\shadows.ts                            0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants\spacing.ts                            0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants\theme.ts                              0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\constants\typography.ts                         0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\admin                                         
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth                                          
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\current-affairs                               
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\dashboard                                     
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\exams                                         
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\mock-test                                     
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\notifications                                 
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\odisha-gk                                     
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\preparation                                   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\profile                                       
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\question-bank                                 
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\results                                       
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\study                                         
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components                               
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks                                    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\schemas                                  
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\services                                 
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\types                                    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\AlreadyHaveAccount.tsx 360    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\AuthCard.tsx           554    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\AuthFooter.tsx         540    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\AuthHeader.tsx         1391   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\AuthLayout.tsx         5151   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\DontHaveAccount.tsx    363    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\ForgotPasswordForm.tsx 2139   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\LoadingButton.tsx      902    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\LoginForm.tsx          2594   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\PasswordInput.tsx      1947   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\RegisterForm.tsx       3338   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\components\ResetPasswordForm.tsx  4152   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks\useForgotPassword.ts        972    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks\useForgotPasswordForm.ts    1118   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks\useLogin.ts                 769    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks\useLoginForm.ts             979    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks\useRegister.ts              875    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks\useRegisterForm.ts          1167   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks\useResetPassword.ts         966    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\hooks\useResetPasswordForm.ts     1218   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\schemas\forgot-password.schema.ts 225    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\schemas\login.schema.ts           297    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\schemas\register.schema.ts        970    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\schemas\reset-password.schema.ts  984    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\services\auth.service.ts          8395   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\features\auth\types\auth.types.ts               1688   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\lib\supabase                                           
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\lib\utils.ts                                    169    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\lib\supabase\client.ts                          199    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\lib\supabase\middleware.ts                      0      
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\lib\supabase\proxy.ts                           1781   
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\lib\supabase\server.ts                          721    
+C:\Users\iBirds\Desktop\OdishaRank\frontend\src\lib\supabase\types.ts                           0      
+
+
